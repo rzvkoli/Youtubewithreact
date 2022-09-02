@@ -8,4 +8,4 @@
 - **Feker library**
 - **React icon**
 - **CSS**
-- **BOOTSTRAP**
+- **Bootstrap**
