@@ -1,0 +1,68 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    background-color: #ffffff;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    background-color: #ffffff;
+    align-items: center;
+    position: relative;
+    left: -325px;
+    padding: 5px 15px;
+}
+
+.logo-youtube{
+    color: #ff0000;
+    width: 37.5px;
+    height: 30.5px;
+    background-color: #ffffff;
+}
+
+.logo-name{
+    font-family: youtube;
+    font-size: 30px;
+    color: #303030;
+    background-color: #ffffff;
+    position: relative;
+    top: 9.75px;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    border: solid 1px #bdbdbd;
+    position: relative;
+    left: -60px;
+    font-weight: bold;
+}
+
+
+.field{
+    outline: none;
+    font-size: 1em;
+    padding: 0.5em 0.5em;
+    border: hidden;
+    background-color: #ffffff;
+    width: 35em;
+    font-weight: 400;
+}
+
+.search-icon{
+    color: #606060;
+    font-size: 20px;
+}
+
+.btn-search{
+    border: hidden;
+    width: 60px;
+    height: 37.5px;
+    border-left: solid 1px #bdbdbd;
+}

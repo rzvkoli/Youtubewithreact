@@ -1,0 +1,5 @@
+@font-face {
+    font-family: youtube ;
+    src: url('../fonts/youtube.ttf') format('ttf'),
+    url('../fonts/youtube.woff') format('woff');
+}

@@ -1,0 +1,41 @@
+.video{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+
+.details{
+    width: 180px;
+    padding-left: 10px;
+}
+
+.video-cover{
+    width: 220px;
+    height: 120px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+
+.video-title{
+    font-size: 14px;
+    font-weight: 400;
+    height: 35px;
+}
+
+.channel-title{
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.views-history{
+    display: flex;
+    position: relative;
+    top: 10px;
+    flex-direction: row;
+    font-size: 12px;
+    font-weight: 300;
+    color: #505050;
+}
+
+.history{
+    margin-left: 4px;
+}
