@@ -19,6 +19,14 @@
 - The favicon has chaned in this project .
 ![00](https://user-images.githubusercontent.com/100797809/188075232-bb772846-3c4f-442a-9024-d2e02ceaaea4.png)
 - In this project a font with two formats **ttf - woff** in this direction **public / fonts** used .
+- A font has been imported in this project .
+
+```CSS
+
+import url ('');
+
+```
+
 - In this direction **public/css** There is an **Style.css** file
 that fonts In this file and with **font-face** have been used .
 
@@ -35,5 +43,6 @@ font-face {
 ## Preview
 
 ### Desktop Mode
+### Default Mode
 ![01](https://user-images.githubusercontent.com/100797809/188073689-9cac2378-18f4-4dce-8c8b-1eb2c833b6f0.png)
 ---
