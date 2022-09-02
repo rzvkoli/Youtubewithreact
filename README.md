@@ -18,6 +18,19 @@
 - **Bootstrap** is uses in this project .
 - The favicon has chaned in this project .
 ![00](https://user-images.githubusercontent.com/100797809/188075232-bb772846-3c4f-442a-9024-d2e02ceaaea4.png)
+- In this project a font with two formats **ttf - woff** in this direction **public / fonts** used .
+- In this direction **public/css** There is an **Style.css** file
+that fonts In this file and with **font-face** have been used .
+
+```Css
+
+font-face {
+    font-family : 'Roboto';
+    src : url('../fonts/Roboto-Thin.ttf') format('ttf'),
+    url('../fonts/Roboto-Thin.woff') format('woff');
+}
+
+```
 
 ## Preview
 
