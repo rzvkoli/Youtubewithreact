@@ -16,6 +16,7 @@
 - **Faker library** is used in this project Faker is a library that generates fake ( but reasonable ) data for you Mock data Data for testing development and the like .
 - **React-icons** is uses in this project .
 - **Bootstrap** is uses in this project .
+- The favicon has chaned in this project .
 
 ## Preview
 
