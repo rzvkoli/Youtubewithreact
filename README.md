@@ -26,8 +26,8 @@ that fonts In this file and with **font-face** have been used .
 
 font-face {
     font-family : 'Roboto';
-    src : url('../fonts/Roboto-Thin.ttf') format('ttf'),
-    url('../fonts/Roboto-Thin.woff') format('woff');
+    src : url('../fonts/youtube.woff') format('ttf'),
+    url('../fonts/youtube.woff') format('woff');
 }
 
 ```
